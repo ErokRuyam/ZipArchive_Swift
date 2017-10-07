@@ -1,0 +1,6 @@
+framework module ZipArc {
+  umbrella header "ZipArc.h"
+
+  export *
+  module * { export * }
+}
